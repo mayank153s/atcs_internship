@@ -7,9 +7,6 @@ import java.math.*;
 
 public class CountLettersInArray {
 	static char[] arr;
-//	public CountLettersInArray() {
-//		// TODO Auto-generated constructor stub
-//	}
 	public static void createArray(){
 		Scanner scn = new Scanner(System.in);
 		String str = scn.nextLine();
